@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Mckeane</title>
-  <link rel="stylesheet" href="stylesheetindex.css">
-  <style>
+
     body, html {
       background-color: #CEA56C;
       height: 100%;
@@ -12,7 +7,7 @@
     }
 
     .hero-image {
-      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bark.jpg");
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("dog-puppy-on-garden-royalty-free-image-1586966191.jpg");
       height: 40vh;
       background-position: center;
       background-repeat: no-repeat;
@@ -48,17 +43,4 @@
     p {
       text-align: center;
     }
-  </style>
-</head>
-<body>
-  <div class="hero-image">
-    <div class="hero-text">
-      <h1>I am Mckeane</h1>
-      <p>And I'm a student</p>
-      <a href="academics.html"><button>github</button></a>
-      <a href="extracurriculars.html"><button>rowing profile</button></a>
-    </div>
-  </div>
-  <p>During the 2022-2023 School Year, I learnned APCSP and Joy of Computing at Piedmont High.in my free time i like to code, row and do robotics .</p>
-</body>
-</html>
+
